@@ -1,7 +1,7 @@
 # 📧 Serverless Email API using AWS Lambda & Node.js
 
 This project is a lightweight REST API built with the Serverless Framework. It uses AWS Lambda to send emails using Node.js and Nodemailer over Gmail's SMTP.
-
+DEMO LINK : https://www.youtube.com/watch?v=kcqDHky9kpk
 ---
 
 ## 🚀 Features
