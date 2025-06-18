@@ -143,6 +143,11 @@ Content-Type: application/json
 ---
 
 
-## 🧾 License
+## 🧾 Screenshots 
 
-MIT © 2025 Aman Kumar
+![task2 1](https://github.com/user-attachments/assets/6a2ba67f-290d-4727-8f54-3dcdd12a0e22)
+<br>
+![task2 2](https://github.com/user-attachments/assets/0b74c450-d2bd-4be5-bf9c-96778534f887)
+<br>
+![task2 3](https://github.com/user-attachments/assets/4dc60a4e-451f-4eeb-917b-317d5facb307)
+
