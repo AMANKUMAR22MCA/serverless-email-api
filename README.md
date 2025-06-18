@@ -3,7 +3,7 @@
 This project is a lightweight REST API built with the Serverless Framework. It uses AWS Lambda to send emails using Node.js and Nodemailer over Gmail's SMTP.
 
 ---
-
+Find the Screenshots  at bottom
 ---
 DEMO LINK : https://www.youtube.com/watch?v=kcqDHky9kpk
 ---
@@ -153,4 +153,7 @@ Content-Type: application/json
 ![task2 2](https://github.com/user-attachments/assets/0b74c450-d2bd-4be5-bf9c-96778534f887)
 <br>
 ![task2 3](https://github.com/user-attachments/assets/4dc60a4e-451f-4eeb-917b-317d5facb307)
+<br>
+![image](https://github.com/user-attachments/assets/3b4e1e6b-52d5-4d00-a453-1fdbe9d1cc3f)
+
 
