@@ -1,0 +1,21 @@
+{
+  "name": "email-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^7.0.3",
+    "serverless": "^4.17.1",
+    "serverless-dotenv-plugin": "^6.0.0"
+  },
+  "devDependencies": {
+    "dotenv": "^16.5.0",
+    "serverless-offline": "^14.4.0"
+  },
+  "description": ""
+}

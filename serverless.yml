@@ -1,0 +1,29 @@
+service: email-api
+
+
+
+provider:
+  name: aws
+  runtime: nodejs18.x
+  region: us-east-1
+
+  environment:
+    EMAIL_USER: ${env:EMAIL_USER}
+    EMAIL_PASS: ${env:EMAIL_PASS}
+
+functions:
+  sendEmail:
+    handler: handler.sendEmail
+    events:
+      - http:
+          path: send-email
+          method: post
+          cors: true
+
+plugins:
+  - serverless-offline
+  - serverless-dotenv-plugin
+
+custom:
+  dotenv:
+    path: .env
